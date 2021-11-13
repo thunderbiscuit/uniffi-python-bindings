@@ -3,6 +3,7 @@
 1. build
 2. copy native library in path
 3. generate the bindings
+4. run the python script
 
 ```shell
 # build library
